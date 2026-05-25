@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrender",
+        "uuid": 1014012,
+        "checksum": "v87f1u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
